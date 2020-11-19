@@ -20,14 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbd07133-cc5b-4ce9-a5b8-32a0304771e7" name="デフォルト変更リスト" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScrollObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ScrollObject.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations/AzarashiSprite.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations/AzarashiSprite.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations/AzarashiSprite@flap.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations/AzarashiSprite@flap.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations/AzarashiSprite@idle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Anamations/AzarashiSprite@idle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AzarashiController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AzarashiController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyAzarashi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyAzarashi/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FlappyAzarashi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlappyAzarashi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FlappyAzarashi.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FlappyAzarashi.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +45,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/ScrollObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AzarashiController.cs" />
       </list>
     </option>
   </component>
@@ -87,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605787814156</updated>
-      <workItem from="1605787827417" duration="1735000" />
+      <workItem from="1605787827417" duration="5631000" />
     </task>
     <servers />
   </component>
